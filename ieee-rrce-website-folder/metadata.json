@@ -1,0 +1,6 @@
+{
+  "name": "IEEE Student Branch at RRCE",
+  "description": "Official website for the IEEE Student Branch at RajaRajeswari College of Engineering (RRCE), Bengaluru. Fostering engineering excellence, student leadership, technical projects, and technological advancement for humanity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

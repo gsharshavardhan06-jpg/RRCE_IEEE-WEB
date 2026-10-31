@@ -1,0 +1,33 @@
+# ASSET CREDITS
+
+This file documents all third-party media, fonts, icons, and software dependencies utilized in the IEEE Student Branch at RRCE website.
+
+---
+
+## 1. Typography
+- **Open Sans**: Designed by Steve Matteson. Distributed under the Apache License 2.0 via Google Fonts.
+- **Space Grotesk**: Designed by Florian Karsten. Distributed under the SIL Open Font License 1.1 via Google Fonts.
+
+---
+
+## 2. Iconography
+- **Lucide Icons**: Distributed under the ISC License by the Lucide Contributors (https://lucide.dev/).
+
+---
+
+## 3. Brand Assets
+- **IEEE Emblem & Colors**: Used under IEEE educational and student branch identity guidelines. Principal brand color IEEE Blue (#00629B) and cyan accent (#00B5E2).
+- **RRCE Identity**: Institutional name, campus location, and news details referenced from public institutional announcements at RajaRajeswari College of Engineering (https://www.rrce.org/).
+
+---
+
+## 4. Illustrative Photography
+Images sourced from Unsplash under the Unsplash License (free for commercial and non-commercial use, no attribution required):
+- **Conference Auditorium / Keynote**: Photo by Alexandre Pellaes on Unsplash (Auditorium technical presentation).
+- **Embedded Hardware & Soldering**: Photo by Science in HD on Unsplash (Engineering electronics workbench).
+- **Robotics Prototype Presentation**: Photo by ThisisEngineering RAEng on Unsplash (Student engineers reviewing robotic graphs).
+- **Robotics Arm & Automation**: Photo by Franck V. on Unsplash (Robotics laboratory equipment).
+- **Student Team Discussion**: Photo by Annie Spratt on Unsplash (Collaborative student project team).
+- **Women in Engineering Mentorship**: Photo by Christina @ wocintechchat.com on Unsplash (STEM mentor and student).
+
+All illustrative images are explicitly tagged in the application user interface as *[Illustrative Engineering Demonstration]* to ensure transparency.
